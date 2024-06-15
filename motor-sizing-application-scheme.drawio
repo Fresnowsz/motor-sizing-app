@@ -1,0 +1,13 @@
+<mxfile host="app.diagrams.net" modified="2024-06-15T12:23:34.363Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Qm_T9ZpO-hKQwE85_zTF" version="24.5.4" type="device">
+  <diagram name="Page-1" id="yRgI9ryyjb29Eyp8XaVW">
+    <mxGraphModel dx="1050" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GtqdbThTcfgjpgIIF2Dk-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;motor-sizing-application&lt;/h1&gt;&lt;p&gt;The purpose of this document is to list the requirements of a motor sizing application, which is going to be used by a mechanical design engineer to validate the fit of a specific motor for a required application.&lt;/p&gt;&lt;p&gt;Main features:&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="660" height="290" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
